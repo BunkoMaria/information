@@ -8,8 +8,7 @@ from lib_requests import test_requests
 from lib_pandas import test_pandas
 from lib_numpy import test_numpy
 from lib_matplotlib import test_matplotlib
-from lib_bs4 import test_bs4
-from lib_rich import test_rich
+from lib_bs4 import test_bsfrom lib_rich import test_rich
 from lib_jinja2 import test_jinja2
 from lib_colorama import test_colorama
 from lib_click import test_click
